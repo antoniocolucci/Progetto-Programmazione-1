@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1550165330 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\main.c
+	"lib.h"
+
+1550162030 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\fusione.c
+	"lib.h"
+
+1550161106 c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1550155809 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\max_ind_s.c
+	"lib.h"
+
+1550155809 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\ord_sel_max.c
+	"lib.h"
+
+1550148145 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\ricerca_binaria.c
+	"lib.h"
+
+1550160607 source:c:\users\anton\desktop\progetto elenco telefonico\elenco telefonico\scambiare.c
+	"lib.h"
+
