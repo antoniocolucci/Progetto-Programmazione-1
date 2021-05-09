@@ -9,6 +9,7 @@ Il battitore viene collocato al lato di una mappa regolare di dimensioni come in
 (rettangolo rosso). Il battitore ha disposizione una mazza da baseball (nero in figura).
 Il lanciatore fa un punto se il ricevitore non riesce a respingere la palla altrimenti se il
 ricevitore colpisce la palla il punto va al ricevitore.
+
 Il gioco procede in questo modo:
 • Il lanciatore lancia la palla con una certa intensità che è identificata da un
 numero casuale da 1 a 10.
@@ -30,6 +31,7 @@ Traccia 2: Elenco telefonico.
 Consideriamo due elenchi telefonici composti da 30 e 50 utenti, rispettivamente.
 Ogni utente è identificato da un cognome, nome, domicilio e numero telefonico.
 Si supponga che gli utenti inizialmente sono presenti in ordine casuale.
+
 Permettere al programma di
 • Fondere i due elenchi in base al cognome e nome.
 • Dato un cognome, un nome e un domicilio, cercare il numero corrispondente.
