@@ -26,7 +26,7 @@ ricorda che, per esempio, se numero_casuale è un int, la chiamata
 numero_casuale=rand()%11; genera un numero casuale intero (distribuzione uniforme) nell’insieme (0,1,2,3,4,5,6,7,8,9,10). Usare sempre la srand() per
 rendere automatica la scelta iniziale del seed della sequenza di numeri casuali.
 
-**Traccia 2: Elenco telefonico.**
+**Traccia 2: Elenco telefonico**
 
 Consideriamo due elenchi telefonici composti da 30 e 50 utenti, rispettivamente.
 Ogni utente è identificato da un cognome, nome, domicilio e numero telefonico.
